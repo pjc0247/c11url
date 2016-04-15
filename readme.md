@@ -2,7 +2,7 @@ c11url
 ====
 __11bcur1__<br>
 a simple `libcurl` wrapper for modern c++
-<br>
+<br><br>
 ```cpp
 try {
   // GET
