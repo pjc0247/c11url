@@ -2,7 +2,7 @@ c11url
 ====
 __11bcur1__<br>
 a simple `libcurl` wrapper for modern c++
-
+<br>
 ```cpp
 try {
   // GET
@@ -17,7 +17,7 @@ catch(const curl::http_exception &e){
   std::cout << e.what();
 }
 ```
-
+<br>
 with __await syntax
 ----
 ```cpp
