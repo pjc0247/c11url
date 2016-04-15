@@ -1,6 +1,6 @@
 c11url
 ====
-
+__11bcur1__<br>
 a simple `libcurl` wrapper for modern c++
 
 ```cpp
@@ -28,4 +28,4 @@ void main() {
   test().get();
 }
 ```
-`__await` Å°¿öµå¸¦ »ç¿ëÇÏ±â À§ÇØ¼­´Â VisualStudio2015ÀÌ»ó ¹öÀü°ú `/await` ÄÄÆÄÀÏ·¯ ¿É¼ÇÀÌ ÇÊ¿äÇÕ´Ï´Ù.
+`__await` í‚¤ì›Œë“œë¥¼ ì‚¬ìš©í•˜ê¸° ìœ„í•´ì„œëŠ” VisualStudio2015ì´ìƒ ë²„ì „ê³¼ `/await` ì»´íŒŒì¼ëŸ¬ ì˜µì…˜ì´ í•„ìš”í•©ë‹ˆë‹¤.
